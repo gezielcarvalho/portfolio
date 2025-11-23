@@ -16,8 +16,6 @@ This repository serves dual purposes:
 
 ### Documentation & Learning
 - **[Wiki](https://github.com/gezielcarvalho/portfolio/wiki)** - Comprehensive documentation on software house operations, architecture, DevOps, and best practices
-- **[Digital Presence Strategy](./docs/DIGITAL_PRESENCE_STRATEGY.md)** - Strategic framework for professional visibility across platforms
-- **[Action Plan](./docs/ACTION_PLAN.md)** - Practical implementation guide for building digital presence
 
 ## 📚 What's Inside
 
@@ -28,13 +26,6 @@ Detailed technical documentation covering:
 - **DevOps Practices:** CI/CD, infrastructure, monitoring, and deployment
 - **Best Practices:** Code standards, testing strategies, and documentation
 - **Learning Resources:** Career development, tools, and recommended materials
-
-### Strategic Planning
-This repository also houses my strategic approach to professional visibility:
-- Content distribution across multiple platforms (GitHub, LinkedIn, blog, social media)
-- Audience-specific strategies (recruiters, customers, mentees)
-- Content creation workflows and templates
-- Analytics and success metrics
 
 ## 🎓 For Different Audiences
 
@@ -57,8 +48,7 @@ This repository also houses my strategic approach to professional visibility:
 
 1. **New here?** Start with the [wiki home page](https://github.com/gezielcarvalho/portfolio/wiki)
 2. **Looking for code?** Check out my [featured repositories](https://github.com/gezielcarvalho)
-3. **Want to understand my approach?** Read the [Digital Presence Strategy](./docs/DIGITAL_PRESENCE_STRATEGY.md)
-4. **Interested in collaboration?** See contact information below
+3. **Interested in collaboration?** See contact information below
 
 ## 🔗 Connect With Me
 
@@ -70,10 +60,7 @@ This repository also houses my strategic approach to professional visibility:
 
 ```
 portfolio/
-├── README.md   
-└── docs/                     
-    ├── DIGITAL_PRESENCE_STRATEGY.md       # Comprehensive strategy document
-    └── ACTION_PLAN.md                     # Practical implementation guide
+├── README.md                              # This file - overview and navigation
 └── wiki/                                  # (GitHub Wiki) Technical documentation
     ├── Home
     ├── Software House Operations
