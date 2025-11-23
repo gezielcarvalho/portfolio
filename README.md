@@ -62,10 +62,9 @@ This repository also houses my strategic approach to professional visibility:
 
 ## 🔗 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Personal Website:** [Your Website](#)
-- **Company Blog:** [Your Blog](#)
-- **Email:** [Your Email](#)
+- [**LinkedIn:**](https://www.linkedin.com/in/gezielcarvalho/)
+- [**Personal Website:**](https://gezielcarvalho.info/)
+- [**Company Blog:**](https://sabresoftware.com.br/)
 
 ## 📝 Repository Structure
 
