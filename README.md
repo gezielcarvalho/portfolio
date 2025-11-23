@@ -1,9 +1,5 @@
 # Welcome to My Portfolio
 
-> **Building a comprehensive digital professional presence through code, documentation, and thought leadership.**
-
-## 🎯 Purpose
-
 This repository serves dual purposes:
 1. **Navigation Hub:** Easy access to my technical work and professional profiles
 2. **Strategic Documentation:** A wiki resource demonstrating software house operations, best practices, and technical expertise
