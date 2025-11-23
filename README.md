@@ -16,8 +16,8 @@ This repository serves dual purposes:
 
 ### Documentation & Learning
 - **[Wiki](https://github.com/gezielcarvalho/portfolio/wiki)** - Comprehensive documentation on software house operations, architecture, DevOps, and best practices
-- **[Digital Presence Strategy](./DIGITAL_PRESENCE_STRATEGY.md)** - Strategic framework for professional visibility across platforms
-- **[Action Plan](./ACTION_PLAN.md)** - Practical implementation guide for building digital presence
+- **[Digital Presence Strategy](./docs/DIGITAL_PRESENCE_STRATEGY.md)** - Strategic framework for professional visibility across platforms
+- **[Action Plan](./docs/ACTION_PLAN.md)** - Practical implementation guide for building digital presence
 
 ## 📚 What's Inside
 
@@ -57,7 +57,7 @@ This repository also houses my strategic approach to professional visibility:
 
 1. **New here?** Start with the [wiki home page](https://github.com/gezielcarvalho/portfolio/wiki)
 2. **Looking for code?** Check out my [featured repositories](https://github.com/gezielcarvalho)
-3. **Want to understand my approach?** Read the [Digital Presence Strategy](./DIGITAL_PRESENCE_STRATEGY.md)
+3. **Want to understand my approach?** Read the [Digital Presence Strategy](./docs/DIGITAL_PRESENCE_STRATEGY.md)
 4. **Interested in collaboration?** See contact information below
 
 ## 🔗 Connect With Me
@@ -71,10 +71,11 @@ This repository also houses my strategic approach to professional visibility:
 
 ```
 portfolio/
-├── README.md                          # This file - overview and navigation
-├── DIGITAL_PRESENCE_STRATEGY.md       # Comprehensive strategy document
-├── ACTION_PLAN.md                     # Practical implementation guide
-└── wiki/                              # (GitHub Wiki) Technical documentation
+├── README.md   
+└── docs/                     
+    ├── DIGITAL_PRESENCE_STRATEGY.md       # Comprehensive strategy document
+    └── ACTION_PLAN.md                     # Practical implementation guide
+└── wiki/                                  # (GitHub Wiki) Technical documentation
     ├── Home
     ├── Software House Operations
     ├── Technical Architecture
